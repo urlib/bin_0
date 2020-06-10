@@ -1,0 +1,28 @@
+res: 1
+res: 3
+res: 5
+res: 6
+6
+DFN: 4
+minus
+res: 1
+res: 2
+res: 3
+res: 4
+4
+DFN: 2
+minus
+res: 1
+res: 2
+res: 3
+res: 3
+3
+DFN: 4
+plus
+res: 1
+res: 3
+res: 3
+res: 3
+res: 4
+res: 6
+6
