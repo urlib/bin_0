@@ -1,0 +1,712 @@
+[N] 当且仅当输入绝对路径时，工作正常。
+输入你的文件位置：D:\wy-dl\former-computer-001~040
+[R] ========== 文件夹 D:/wy-dl/former-computer-001~040/ 已经开始上传。 ==========
+
+[E] 请求超时。
+[R] 正在重试 ... @2020/02/15 16:39:24
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.001 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwMQ$$.001 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+[R] 正在重试 ... @2020/02/15 16:39:38
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.001 已经在 @2020/02/15 16:40:48 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwMQ$$.001
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwMQ$$.001
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.002 已经在 @2020/02/15 16:41:59 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwMg$$.002
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwMg$$.002
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.003 已经在 @2020/02/15 16:43:10 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwMw$$.003
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwMw$$.003 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.004 已经在 @2020/02/15 16:44:19 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwNA$$.004
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwNA$$.004 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.005 已经在 @2020/02/15 16:45:17 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwNQ$$.005
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwNQ$$.005
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.006 已经在 @2020/02/15 16:46:10 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwNg$$.006
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwNg$$.006
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.007 已经在 @2020/02/15 16:46:39 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwNw$$.007
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwNw$$.007
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.008 已经在 @2020/02/15 16:47:55 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwOA$$.008
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwOA$$.008
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.009 已经在 @2020/02/15 16:49:04 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwOQ$$.009
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAwOQ$$.009
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.010 已经在 @2020/02/15 16:50:14 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxMA$$.010
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxMA$$.010
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.011 已经在 @2020/02/15 16:51:21 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxMQ$$.011
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxMQ$$.011
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.012 已经在 @2020/02/15 16:52:11 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxMg$$.012
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxMg$$.012
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.013 已经在 @2020/02/15 16:52:37 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxMw$$.013
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxMw$$.013
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.014 已经在 @2020/02/15 16:53:08 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxNA$$.014
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxNA$$.014
+
+[E] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.015 过大，无法上传。 ==========
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.016 已经在 @2020/02/15 16:55:22 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxNg$$.016
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxNg$$.016 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.017 已经在 @2020/02/15 16:56:36 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxNw$$.017
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxNw$$.017
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.018 已经在 @2020/02/15 16:57:47 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxOA$$.018
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxOA$$.018 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.019 已经在 @2020/02/15 16:59:01 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxOQ$$.019
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAxOQ$$.019
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.020 已经在 @2020/02/15 17:00:12 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyMA$$.020
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyMA$$.020
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.021 已经在 @2020/02/15 17:01:23 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyMQ$$.021
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyMQ$$.021 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.022 已经在 @2020/02/15 17:02:36 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyMg$$.022
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyMg$$.022 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.023 已经在 @2020/02/15 17:03:46 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyMw$$.023
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyMw$$.023
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.024 已经在 @2020/02/15 17:04:56 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyNA$$.024
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyNA$$.024
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.025 已经在 @2020/02/15 17:06:06 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyNQ$$.025
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyNQ$$.025
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.026 已经在 @2020/02/15 17:07:19 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyNg$$.026
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyNg$$.026
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.027 已经在 @2020/02/15 17:08:30 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyNw$$.027
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyNw$$.027
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.028 已经在 @2020/02/15 17:09:43 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyOA$$.028
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyOA$$.028
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.029 已经在 @2020/02/15 17:10:54 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyOQ$$.029
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAyOQ$$.029
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.030 已经在 @2020/02/15 17:12:04 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzMA$$.030
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzMA$$.030
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.031 已经在 @2020/02/15 17:13:17 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzMQ$$.031
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzMQ$$.031
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.032 已经在 @2020/02/15 17:14:31 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzMg$$.032
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzMg$$.032
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.033 已经在 @2020/02/15 17:15:43 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzMw$$.033
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzMw$$.033
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.034 已经在 @2020/02/15 17:16:56 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzNA$$.034
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzNA$$.034
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.035 已经在 @2020/02/15 17:18:07 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzNQ$$.035
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzNQ$$.035 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.036 已经在 @2020/02/15 17:19:19 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzNg$$.036
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzNg$$.036
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.037 已经在 @2020/02/15 17:20:28 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzNw$$.037
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzNw$$.037 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.038 已经在 @2020/02/15 17:21:37 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOA$$.038
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOA$$.038 测试失败。
+
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B1D37E7C0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:21:41
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B21292B20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:21:43
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B212990A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:21:45
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B212998E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:21:47
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B212A9250>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:21:49
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B1F3B3460>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:21:51
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B21299160>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:21:53
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B21299DC0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:21:55
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B212922E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:21:57
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B21292BB0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:21:59
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B1D37ED90>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:22:02
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B212A9E50>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:22:04
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B212A92E0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:22:06
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B1D37E820>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:22:08
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B1C9A7880>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:22:10
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000019B21292610>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+[R] 正在重试 ... @2020/02/15 17:22:12
+[E] 请求超时。
+[R] 正在重试 ... @2020/02/15 17:22:45
+[E] 请求超时。
+[R] 正在重试 ... @2020/02/15 17:23:15
+[E] 请求超时。
+[R] 正在重试 ... @2020/02/15 17:23:45
+[E] 请求超时。
+[R] 正在重试 ... @2020/02/15 17:24:15
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+[R] 正在重试 ... @2020/02/15 17:24:24
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.039 已经在 @2020/02/15 17:25:21 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjAzOQ$$.039 测试失败。
+
+[E] 请求超时。
+[R] 正在重试 ... @2020/02/15 17:25:52
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.040 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0MA$$.040 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+[R] 正在重试 ... @2020/02/15 17:25:56
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.040 已经在 @2020/02/15 17:27:04 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0MA$$.040
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0MA$$.040 测试失败。
+
+[E] 请求超时。
+[R] 正在重试 ... @2020/02/15 17:27:52
+[E] 请求超时。
+[R] 正在重试 ... @2020/02/15 17:28:22
+[E] 在处理文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.041 时，发生未知错误。更多细节：
+HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/urlib/fuzzy-disco/contents/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0MQ$$.041 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None)))
+[R] 正在重试 ... @2020/02/15 17:29:01
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.041 已经在 @2020/02/15 17:30:09 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0MQ$$.041
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0MQ$$.041
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.042 已经在 @2020/02/15 17:31:21 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0Mg$$.042
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0Mg$$.042
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.043 已经在 @2020/02/15 17:32:33 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0Mw$$.043
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0Mw$$.043 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.044 已经在 @2020/02/15 17:33:51 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0NA$$.044
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0NA$$.044
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.045 已经在 @2020/02/15 17:35:06 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0NQ$$.045
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0NQ$$.045
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.046 已经在 @2020/02/15 17:36:22 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0Ng$$.046
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0Ng$$.046
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.047 已经在 @2020/02/15 17:37:34 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0Nw$$.047
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0Nw$$.047
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.048 已经在 @2020/02/15 17:38:44 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0OA$$.048
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0OA$$.048
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.049 已经在 @2020/02/15 17:39:53 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0OQ$$.049
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA0OQ$$.049 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.050 已经在 @2020/02/15 17:40:51 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1MA$$.050
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1MA$$.050
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.051 已经在 @2020/02/15 17:41:13 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1MQ$$.051
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1MQ$$.051 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.052 已经在 @2020/02/15 17:42:25 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1Mg$$.052
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1Mg$$.052
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.053 已经在 @2020/02/15 17:43:38 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1Mw$$.053
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1Mw$$.053
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.054 已经在 @2020/02/15 17:44:00 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1NA$$.054
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1NA$$.054
+
+[E] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.055 过大，无法上传。 ==========
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.056 已经在 @2020/02/15 17:45:27 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1Ng$$.056
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1Ng$$.056
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.057 已经在 @2020/02/15 17:46:38 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1Nw$$.057
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1Nw$$.057 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.058 已经在 @2020/02/15 17:47:52 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1OA$$.058
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1OA$$.058
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.059 已经在 @2020/02/15 17:49:06 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1OQ$$.059
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA1OQ$$.059
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.060 已经在 @2020/02/15 17:50:16 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2MA$$.060
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2MA$$.060
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.061 已经在 @2020/02/15 17:51:27 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2MQ$$.061
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2MQ$$.061
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.062 已经在 @2020/02/15 17:52:45 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2Mg$$.062
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2Mg$$.062
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.063 已经在 @2020/02/15 17:53:57 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2Mw$$.063
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2Mw$$.063
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.064 已经在 @2020/02/15 17:55:19 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2NA$$.064
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2NA$$.064
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.065 已经在 @2020/02/15 17:56:43 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2NQ$$.065
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2NQ$$.065 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.066 已经在 @2020/02/15 17:58:02 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2Ng$$.066
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2Ng$$.066
+
+[W] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.067 已存在 @2020/02/15 17:58:53 。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2Nw$$.067
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2Nw$$.067 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.068 已经在 @2020/02/15 17:59:51 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2OA$$.068
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2OA$$.068
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.069 已经在 @2020/02/15 18:00:23 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2OQ$$.069
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA2OQ$$.069 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.070 已经在 @2020/02/15 18:01:20 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3MA$$.070
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3MA$$.070
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.071 已经在 @2020/02/15 18:01:48 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3MQ$$.071
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3MQ$$.071
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.072 已经在 @2020/02/15 18:02:12 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3Mg$$.072
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3Mg$$.072
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.073 已经在 @2020/02/15 18:02:35 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3Mw$$.073
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3Mw$$.073
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.074 已经在 @2020/02/15 18:02:58 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3NA$$.074
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3NA$$.074 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.075 已经在 @2020/02/15 18:03:40 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3NQ$$.075
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3NQ$$.075
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.076 已经在 @2020/02/15 18:04:03 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3Ng$$.076
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3Ng$$.076
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.077 已经在 @2020/02/15 18:04:53 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3Nw$$.077
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3Nw$$.077
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.078 已经在 @2020/02/15 18:06:01 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3OA$$.078
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3OA$$.078 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.079 已经在 @2020/02/15 18:07:16 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3OQ$$.079
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA3OQ$$.079
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.080 已经在 @2020/02/15 18:08:32 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4MA$$.080
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4MA$$.080
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.081 已经在 @2020/02/15 18:09:36 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4MQ$$.081
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4MQ$$.081
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.082 已经在 @2020/02/15 18:10:01 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4Mg$$.082
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4Mg$$.082 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.083 已经在 @2020/02/15 18:10:25 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4Mw$$.083
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4Mw$$.083 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.084 已经在 @2020/02/15 18:10:50 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4NA$$.084
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4NA$$.084
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.085 已经在 @2020/02/15 18:12:06 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4NQ$$.085
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4NQ$$.085 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.086 已经在 @2020/02/15 18:13:18 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4Ng$$.086
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4Ng$$.086
+
+[E] 请求超时。
+[R] 正在重试 ... @2020/02/15 18:16:00
+[W] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.087 已存在 @2020/02/15 18:16:30 。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4Nw$$.087
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4Nw$$.087
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.088 已经在 @2020/02/15 18:17:10 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4OA$$.088
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4OA$$.088
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.089 已经在 @2020/02/15 18:17:33 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4OQ$$.089
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA4OQ$$.089
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.090 已经在 @2020/02/15 18:18:49 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5MA$$.090
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5MA$$.090
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.091 已经在 @2020/02/15 18:20:00 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5MQ$$.091
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5MQ$$.091
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.092 已经在 @2020/02/15 18:20:27 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5Mg$$.092
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5Mg$$.092
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.093 已经在 @2020/02/15 18:21:03 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5Mw$$.093
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5Mw$$.093
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.094 已经在 @2020/02/15 18:22:09 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5NA$$.094
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5NA$$.094
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.095 已经在 @2020/02/15 18:22:55 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5NQ$$.095
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5NQ$$.095 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.096 已经在 @2020/02/15 18:23:28 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5Ng$$.096
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5Ng$$.096
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.097 已经在 @2020/02/15 18:24:15 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5Nw$$.097
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5Nw$$.097
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.098 已经在 @2020/02/15 18:24:57 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5OA$$.098
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5OA$$.098
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.099 已经在 @2020/02/15 18:26:10 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5OQ$$.099
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjA5OQ$$.099
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.100 已经在 @2020/02/15 18:26:35 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwMA$$.100
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwMA$$.100
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.101 已经在 @2020/02/15 18:26:58 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwMQ$$.101
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwMQ$$.101
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.102 已经在 @2020/02/15 18:27:30 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwMg$$.102
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwMg$$.102 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.103 已经在 @2020/02/15 18:28:25 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwMw$$.103
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwMw$$.103
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.104 已经在 @2020/02/15 18:28:47 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwNA$$.104
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwNA$$.104 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.105 已经在 @2020/02/15 18:29:25 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwNQ$$.105
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwNQ$$.105
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.106 已经在 @2020/02/15 18:30:09 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwNg$$.106
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwNg$$.106
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.107 已经在 @2020/02/15 18:30:33 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwNw$$.107
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwNw$$.107
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.108 已经在 @2020/02/15 18:31:25 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwOA$$.108
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwOA$$.108
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.109 已经在 @2020/02/15 18:31:50 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwOQ$$.109
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEwOQ$$.109
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.110 已经在 @2020/02/15 18:32:12 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExMA$$.110
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExMA$$.110
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.111 已经在 @2020/02/15 18:32:47 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExMQ$$.111
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExMQ$$.111
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.112 已经在 @2020/02/15 18:33:12 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExMg$$.112
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExMg$$.112
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.113 已经在 @2020/02/15 18:33:35 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExMw$$.113
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExMw$$.113
+
+[E] 请求超时。
+[R] 正在重试 ... @2020/02/15 18:36:27
+[W] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.114 已存在 @2020/02/15 18:37:06 。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExNA$$.114
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExNA$$.114
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.115 已经在 @2020/02/15 18:37:30 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExNQ$$.115
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExNQ$$.115 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.116 已经在 @2020/02/15 18:37:56 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExNg$$.116
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExNg$$.116
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.117 已经在 @2020/02/15 18:38:18 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExNw$$.117
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExNw$$.117
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.118 已经在 @2020/02/15 18:39:02 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExOA$$.118
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExOA$$.118
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.119 已经在 @2020/02/15 18:39:49 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExOQ$$.119
+[E] CDN 地址 https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjExOQ$$.119 测试失败。
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.120 已经在 @2020/02/15 18:40:30 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyMA$$.120
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyMA$$.120
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.121 已经在 @2020/02/15 18:40:52 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyMQ$$.121
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyMQ$$.121
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.122 已经在 @2020/02/15 18:41:33 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyMg$$.122
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyMg$$.122
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.123 已经在 @2020/02/15 18:42:06 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyMw$$.123
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyMw$$.123
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.124 已经在 @2020/02/15 18:42:30 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyNA$$.124
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyNA$$.124
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.125 已经在 @2020/02/15 18:42:54 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyNQ$$.125
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyNQ$$.125
+
+[R] ========== 文件 D:/wy-dl/former-computer-001~040/former-computer-001~040.zip.126 已经在 @2020/02/15 18:42:59 成功上 传。 ==========
+[R] 文件地址：
+https://github.com/urlib/fuzzy-disco/raw/master/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyNg$$.126
+[R] CDN 可以使用。地址是：https://cdn.jsdelivr.net/gh/urlib/fuzzy-disco/I2wn8Hgc6MSsmLf4/Zm9ybWVyLWNvbXB1dGVyLTAwMX4wNDAuemlwLjEyNg$$.126
+
+[R] ========== 文件夹 D:/wy-dl/former-computer-001~040/ 已经完成上传。 ==========
+
+[N] 当且仅当输入绝对路径时，工作正常。
+输入你的文件位置：
